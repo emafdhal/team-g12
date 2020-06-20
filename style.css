@@ -136,3 +136,23 @@ a {
   font-weight: bold;
   text-shadow: 2px 2px 4px #000000;
 }
+
+.kunjungi {
+  margin-top: 25px;
+  padding: 10px 40px;
+  background-color: white;
+  color: #003d6a;
+  box-shadow: 0 5px #012845;
+  opacity: 0.9;
+  cursor: default;
+}
+
+.kunjungi:hover {
+  opacity: 1;
+}
+
+.kunjungi:active {
+  box-shadow: 0 2px #012845;
+  position: relative;
+  top: 3px;
+}
