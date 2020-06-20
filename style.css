@@ -132,13 +132,19 @@ a {
 }
 
 .container h1 {
-  font-size: 40px;
+  font-size: 50px;
   font-weight: bold;
   text-shadow: 2px 2px 4px #000000;
 }
 
+.container p {
+  padding-top: 30px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
 .kunjungi {
-  margin-top: 25px;
+  margin-top: 50px;
   padding: 10px 40px;
   background-color: white;
   color: #003d6a;
