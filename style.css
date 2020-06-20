@@ -123,6 +123,6 @@ a {
 }
 
 .slider {
-  width: 100%;
+  max-width: 100%;
   top: 120px;
 }
