@@ -18,47 +18,90 @@ a {
 }
 
 
+
 .top-bar {
-  height: 65px;
+  height: 35px;
   width: 100%;
   background-color: #003d6a;
+  color: white;
   position: fixed;
   top: 0;
   z-index: 10;
 }
 
 .container {
-
+  width: 1170px;
+  margin: 0 auto;
 }
 
 .top-menu {
-
 }
 
 .icon {
+  float: left;
+  padding-top: 10px;
+
+}
+
+.phone-marketing {
+  float: right;
+  padding-top: 10px;
+  padding-left: 50px;
+}
+
+.email-marketing {
+  float: right;
+  padding-top: 10px;
 
 }
 
 .fa {
-
+  color: white;
+  padding-right: 5px;
 }
 
 .menu {
-
+  height: 90px;
+  width: 100%;
+  background-color: #ffcb05;
+  color: black;
+  position: fixed;
+  top: 35px;
+  z-index: 10;
 }
 
 .logo {
-
-}
-
-.list-menu {
-
+  float: left;
+  width: 200px;
+  margin-top: 20px;
 }
 
 .login {
+  float: right;
+  margin-top: 30px;
+  padding: 10px 25px;
+  background-color: #003d6a;
+  color: white;
+}
+
+.list-menu {
+  float: left;
+  display: inline-block;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+.list-menu a {
+  padding-right: 30px;
+  color: #003d6a;
+  font-weight: bold;
+}
+
+.list-menu .fa {
+  color: #003d6a;
 
 }
 
 .slider {
-	
+
 }
