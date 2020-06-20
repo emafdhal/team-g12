@@ -138,13 +138,12 @@ a {
 }
 
 .container p {
-  padding-top: 30px;
+  padding-top: 20px 0;
   font-size: 25px;
   font-weight: bold;
 }
 
 .kunjungi {
-  margin-top: 50px;
   padding: 10px 40px;
   background-color: white;
   color: #003d6a;
