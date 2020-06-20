@@ -17,8 +17,6 @@ a {
   text-decoration: none;
 }
 
-
-
 .top-bar {
   height: 35px;
   width: 100%;
@@ -92,9 +90,9 @@ a {
 }
 
 .login:active {
-  box-shadow: none;
+  box-shadow: 0 2px #012845;
   position: relative;
-  top: 5px;
+  top: 3px;
 }
 
 .list-menu {
