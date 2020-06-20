@@ -61,7 +61,7 @@ a {
 }
 
 .menu {
-  height: 80px;
+  height: 85px;
   width: 100%;
   background-color: #ffcb05;
   color: black;
@@ -88,7 +88,7 @@ a {
   float: left;
   display: inline-block;
   padding-top: 50px;
-  padding-left: 100px;
+  padding-left: 50px;
 }
 
 .list-menu a {
