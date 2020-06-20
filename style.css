@@ -124,5 +124,6 @@ a {
 
 .slider {
   max-width: 100%;
+  height: auto;
   top: 120px;
 }
