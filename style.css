@@ -131,13 +131,13 @@ a {
   margin-top: 120px;
 }
 
-.container h1 {
+.head-slider {
   font-size: 50px;
   font-weight: bold;
   text-shadow: 2px 2px 4px #000000;
 }
 
-.container p {
+.text-slider {
   padding: 20px 0;
   font-size: 20px;
   font-weight: bold;
