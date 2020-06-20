@@ -1,5 +1,30 @@
-header {
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  font-family: "Lucida Grande";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.top-bar {
+  height: 65px;
+  width: 100%;
+  background-color: #003d6a;
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .container {
