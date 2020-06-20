@@ -141,7 +141,7 @@ a {
   padding: 20px 0;
   font-size: 20px;
   font-weight: bold;
-  text-shadow: none;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 .kunjungi {
@@ -151,6 +151,8 @@ a {
   box-shadow: 0 5px #012845;
   opacity: 0.9;
   cursor: default;
+  text-shadow: none;
+
 }
 
 .kunjungi:hover {
