@@ -127,5 +127,6 @@ a {
   background-image: url(engineering1.jpg);
   background-size: cover;
   color: white;
-  top: 120px;
+  margin-top: 120px;
+  height: 600px;
 }
