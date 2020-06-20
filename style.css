@@ -96,6 +96,7 @@ a {
   position: relative;
   top: 5px;
 }
+
 .list-menu {
   float: left;
   display: inline-block;
@@ -103,16 +104,16 @@ a {
   padding-left: 90px;
 }
 
-.list-menu:hover {
-  color: red;
-  animation: all 0.5s;
-
-}
-
 .list-menu a {
   padding-right: 20px;
   color: #003d6a;
   font-weight: bold;
+}
+
+.list-menu a:hover {
+  color: red;
+  animation: all 0.5s;
+
 }
 
 .list-menu .fa {
