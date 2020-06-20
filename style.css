@@ -110,7 +110,7 @@ a {
 
 .list-menu a:hover {
   color: red;
-  animation: all 1s;
+  animation-duration: all 1s;
 
 }
 
