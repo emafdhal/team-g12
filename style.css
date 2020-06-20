@@ -111,7 +111,10 @@ a {
 .list-menu a:hover {
   color: red;
   animation-duration: all 1s;
+}
 
+.list-menu a:active {
+  color: black;
 }
 
 .list-menu .fa {
