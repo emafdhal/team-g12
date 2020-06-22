@@ -1,0 +1,43 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .container {
+    width: 90%;
+  }
+
+
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .container {
+    width: 95%;
+  }
+
+  .phone-marketing {
+    display: none;
+  }
+  
+  .email-marketing {
+    display: none;
+  }
+
+  .icon {
+    display: block;
+    text-align: center;
+  }
+  
+  .logo {
+    margin: 0 auto;
+  }
+  
+  .login {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+  
+
+}
