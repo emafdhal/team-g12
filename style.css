@@ -82,6 +82,10 @@ a {
   display: none;
 }
 
+.fa-bar {
+  display: none;
+
+}
 
 .login {
   float: right;
