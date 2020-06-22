@@ -250,7 +250,7 @@ footer {
   width: 100%;   
   background-color: #003d6a;
   color: white;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 .content-footer {
@@ -284,7 +284,6 @@ footer {
 
 .copyright p {
     margin: 0 auto;
-    width: 100%;
     padding-top: 15px;
     height: 50px;
     font-size: 14px;
