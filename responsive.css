@@ -4,25 +4,10 @@
     width: 90%;
   }
   
-  .top-bar p {
+  .email-marketing {
     display: none;
   }
 
-  .icon {
-    display: inline;
-    width: 100%;
-    margin: 0 auto;
-    padding: 0 auto;
-    text-align: center;
-  }
-  
-  .icon a {
-    width: 100%;
-    margin: 0 auto;
-    padding: 0 auto;
-    text-align: center;
-  }
-  
   .login {
     display: none;
   }
@@ -38,6 +23,14 @@
   .list-menu {
     display: none;
 
+  }
+  
+  .head-slider {
+    font-size: 44px;
+  }
+  
+  .text-slider {
+    font-size: 18px; 
   }
 }
 
