@@ -276,12 +276,13 @@ footer {
     flex: 2;
 }
 
-.copyright p {
+.copyright {
     width: 100%;
+    background-color: #ffcb05;
+
 }
 
 .copyright p {
-    background-color: #ffcb05;
     margin: 0 auto;
     width: 100%;
     padding-top: 15px;
