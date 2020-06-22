@@ -200,7 +200,6 @@ a {
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Quicksand', sans-serif;
 
 
 }
@@ -217,11 +216,6 @@ a:hover {
     animation-duration: all 1s;
 }
 
-.container {
-    width: 100%;
-    margin: 0 auto;
-    padding: 0 auto;
-}
 
 li {
     list-style: none;
