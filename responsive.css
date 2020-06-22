@@ -3,9 +3,42 @@
   .container {
     width: 90%;
   }
+  
+  .top-bar p {
+    display: none;
+  }
 
+  .icon {
+    display: inline;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+  }
+  
+  .icon a {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+  }
+  
+  .login {
+    display: none;
+  }
+  
+  .menu-icon {
+    color: #003d6a;
+    float: right;
+    font-size: 40px;
+    padding: 40px 0;
+    display: block;
+  }
+  
+  .list-menu {
+    display: none;
 
-
+  }
 }
 
 /* Untuk Smartphone */
@@ -34,7 +67,7 @@
   }
 
   .logo {
-    padding: 0 auto;
+    margin: 0 auto;
   }
   
   .login {
