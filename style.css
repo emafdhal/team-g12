@@ -229,11 +229,6 @@ ul {
     line-height: 20px;
 }
 
-.fa {
-    color: white;
-    padding-bottom: 10px;
-    margin: 3px;
-}
 
 .fa:hover {
     color: red;
