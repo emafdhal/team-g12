@@ -11,17 +11,13 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .container {
-    width: 95%;
+    width: 98%;
   }
 
-  .phone-marketing {
+  .top-bar p {
     display: none;
   }
   
-  .email-marketing {
-    display: none;
-  }
-
   .icon {
     display: block;
     text-align: center;
