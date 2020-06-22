@@ -18,9 +18,12 @@
     display: none;
   }
  
-    .icon a {
+    .icon {
     display: block;
     width: 100%;
+  }
+  
+    .icon a {
     margin: 0 auto;
     padding: 0 auto;
     text-align: center;
