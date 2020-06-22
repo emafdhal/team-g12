@@ -104,6 +104,10 @@ a {
   top: 3px;
 }
 
+.menu-icon {
+  display: none; 
+}
+
 .list-menu {
   float: left;
   display: inline-block;
