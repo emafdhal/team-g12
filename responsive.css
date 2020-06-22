@@ -11,7 +11,7 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .container {
-    width: 98%;
+    width: 95%;
   }
 
   .top-bar p {
