@@ -177,3 +177,168 @@ a {
 .panah {
   color: #003d6a;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+a:hover {
+    color: red;
+    animation-duration: all 1s;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+li {
+    list-style: none;
+
+
+}
+
+ul {
+    padding-left: 0;
+    line-height: 20px;
+}
+
+.fa {
+    color: white;
+    padding-bottom: 10px;
+    margin: 3px;
+}
+
+.fa:hover {
+    color: red;
+    animation-duration: all 1s;
+}
+
+h3 {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/*footer isi*/
+.content-footer {
+    display: flex;
+    background-color: #003d6a;
+    width: 100%;
+    position: sticky;
+    padding-bottom: 10px;
+
+}
+
+.content-kiri1,
+.content-kiri2,
+.content-kanan1,
+.content-kanan2 {
+    flex: auto;
+    padding-left: 10px;
+    font-size: 12px;
+    flex: 1;
+}
+
+.content-kiri1 {
+    flex: 2;
+}
+
+.copyright p {
+    background-color: #ffcb05;
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 15px;
+    height: 50px;
+    font-size: 14px;
+    text-align: center;
+    color: #003d6a;
+}
+
+.logo {
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+/* Untuk Tablet */
+@media (max-width: 1000px) {
+    .content-footer {
+        flex-wrap: wrap;
+    }
+
+    .content-kiri1,
+    .content-kiri2,
+    .content-kanan1,
+    .content-kanan2 {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+}
+
+/* Untuk Smartphone */
+@media (max-width:670px) {
+
+    /* Tetapkan flex-direction milik .flex-list */
+    .content-footer {
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+
+    /* Tetapkan margin dari .flex-list li ke 0 auto */
+    .content-kiri1,
+    .content-kiri2,
+    .content-kanan1,
+    .content-kanan2 {
+        width: 100%;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .logo {
+        padding-bottom: 30px;
+        border-bottom: 1px solid white;
+    }
+
+
+    footer {
+        text-align: center;
+    }
+}
