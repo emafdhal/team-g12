@@ -77,8 +77,8 @@ a {
 .menu-icon {
   color: #003d6a;
   float: right;
-  font-size: 25px;
-  padding: 21px 0;
+  font-size: 40px;
+  padding: 40px 0;
   display: none;
 }
 
@@ -102,10 +102,6 @@ a {
   box-shadow: 0 2px #012845;
   position: relative;
   top: 3px;
-}
-
-.menu-icon {
-  display: none; 
 }
 
 .list-menu {
