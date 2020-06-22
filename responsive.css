@@ -24,7 +24,7 @@
   }
   
   .logo {
-    margin: 0 auto;
+    padding: 0 auto;
   }
   
   .login {
@@ -35,5 +35,9 @@
     display: block;
   }
   
+  .list-menu {
+    display: none;
+
+  }
 
 }
