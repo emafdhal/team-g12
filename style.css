@@ -5,6 +5,10 @@ h1, h2, h3, h4, h5, h6, p, div {
   padding: 0;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
   font-family: "Lucida Grande";
 }
@@ -189,13 +193,9 @@ a {
 
 
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
 
 
 
-* {
-    box-sizing: border-box;
-}
 
 body {
     margin: 0;
@@ -246,6 +246,12 @@ h3 {
 }
 
 /*footer isi*/
+footer {
+  width: 100%;   
+  background-color: #003d6a;
+  color: white;
+}
+
 .content-footer {
     display: flex;
     background-color: #003d6a;
