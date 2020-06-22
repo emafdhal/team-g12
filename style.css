@@ -74,6 +74,15 @@ a {
   margin-top: 25px;
 }
 
+.menu-icon {
+  color: #003d6a;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
+
 .login {
   float: right;
   margin-top: 25px;
